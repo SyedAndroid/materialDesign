@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout-v11/abc_screen_content_include.xml",
+        "source": "/home/shoiab/.android/build-cache/421ba097a5863a1496187621e6e21f84ef37b5a1/output/res/layout-v11/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout-v11/notification_media_action.xml"
+    }
+]

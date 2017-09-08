@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
+        "source": "/home/shoiab/Desktop/Design/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
+    }
+]

@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+	package
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:2:5-36
+	android:versionName
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:11:5-47:19
+MERGED from [com.android.support:support-v13:25.3.1] /home/shoiab/.android/build-cache/e23319eaef1bb97245bfb4fe1cedc8d0011525a6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:palette-v7:25.3.1] /home/shoiab/.android/build-cache/878f91e7b2c0d9903e4f4988a80dacd91662ec79/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/shoiab/.android/build-cache/241e86fceff92df5da0a3b7bb5b4f877eb87cefa/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] /home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/shoiab/.android/build-cache/4676af21b6d3f0181116ccb156487b6ef44447fd/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/shoiab/.android/build-cache/45a8b3fb9678af04ce8c033707de37c755255f8d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/shoiab/.android/build-cache/cec7d03e61ae1724258ac664eb736fc65e9c2777/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/shoiab/.android/build-cache/f9227cab85ca7a915777d439282c3945a537b56a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/shoiab/.android/build-cache/870c22a9d2ee2410b2881ed983c650c777f991bf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/shoiab/.android/build-cache/444ef9236d08984ff17a5e9b995af88d83803052/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/shoiab/.android/build-cache/8f9d0a59fc2f6d1dd2af5d4af3fa00a6099e1c1f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/shoiab/.android/build-cache/6145bcd4e94fbaa1dc711d9687cbf691c4313843/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/shoiab/.android/build-cache/b9db597b4e2173e725686205beaa5a7382093fee/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.xyzreader.ui.ArticleListActivity
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:19:13-69
+	android:name
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:18:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.xyzreader.ui.ArticleDetailActivity
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:27:9-38:20
+	android:parentActivityName
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:28:13-53
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.VIEW
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:32:27-73
+data
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:33:17-100
+	android:mimeType
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:33:23-97
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:35:13-37:59
+	android:value
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:37:17-56
+	android:name
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:36:17-63
+service#com.example.xyzreader.data.UpdaterService
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:40:9-41:40
+	android:exported
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:40:18-53
+provider#com.example.xyzreader.data.ItemsProvider
+ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:43:9-45:40
+	android:authorities
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:44:13-56
+	android:exported
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml:43:19-53
+uses-sdk
+INJECTED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] /home/shoiab/.android/build-cache/e23319eaef1bb97245bfb4fe1cedc8d0011525a6/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:palette-v7:25.3.1] /home/shoiab/.android/build-cache/878f91e7b2c0d9903e4f4988a80dacd91662ec79/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/shoiab/.android/build-cache/241e86fceff92df5da0a3b7bb5b4f877eb87cefa/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] /home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/shoiab/.android/build-cache/4676af21b6d3f0181116ccb156487b6ef44447fd/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/shoiab/.android/build-cache/45a8b3fb9678af04ce8c033707de37c755255f8d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/shoiab/.android/build-cache/c114cabd0faea24cf0f46a8f30d16304447a5d4c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/shoiab/.android/build-cache/cec7d03e61ae1724258ac664eb736fc65e9c2777/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/shoiab/.android/build-cache/f9227cab85ca7a915777d439282c3945a537b56a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/shoiab/.android/build-cache/870c22a9d2ee2410b2881ed983c650c777f991bf/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/shoiab/.android/build-cache/444ef9236d08984ff17a5e9b995af88d83803052/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/shoiab/.android/build-cache/8f9d0a59fc2f6d1dd2af5d4af3fa00a6099e1c1f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/shoiab/.android/build-cache/6145bcd4e94fbaa1dc711d9687cbf691c4313843/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/shoiab/.android/build-cache/b9db597b4e2173e725686205beaa5a7382093fee/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] /home/shoiab/.android/build-cache/e23319eaef1bb97245bfb4fe1cedc8d0011525a6/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/shoiab/Desktop/Design/XYZReader/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] /home/shoiab/.android/build-cache/e23319eaef1bb97245bfb4fe1cedc8d0011525a6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:palette-v7:25.3.1] /home/shoiab/.android/build-cache/878f91e7b2c0d9903e4f4988a80dacd91662ec79/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/shoiab/.android/build-cache/241e86fceff92df5da0a3b7bb5b4f877eb87cefa/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] /home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/shoiab/.android/build-cache/4676af21b6d3f0181116ccb156487b6ef44447fd/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/shoiab/.android/build-cache/45a8b3fb9678af04ce8c033707de37c755255f8d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/shoiab/.android/build-cache/c114cabd0faea24cf0f46a8f30d16304447a5d4c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/shoiab/.android/build-cache/cec7d03e61ae1724258ac664eb736fc65e9c2777/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/shoiab/.android/build-cache/f9227cab85ca7a915777d439282c3945a537b56a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/shoiab/.android/build-cache/870c22a9d2ee2410b2881ed983c650c777f991bf/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/shoiab/.android/build-cache/444ef9236d08984ff17a5e9b995af88d83803052/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/shoiab/.android/build-cache/8f9d0a59fc2f6d1dd2af5d4af3fa00a6099e1c1f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/shoiab/.android/build-cache/6145bcd4e94fbaa1dc711d9687cbf691c4313843/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/shoiab/.android/build-cache/b9db597b4e2173e725686205beaa5a7382093fee/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] /home/shoiab/.android/build-cache/e23319eaef1bb97245bfb4fe1cedc8d0011525a6/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] /home/shoiab/.android/build-cache/e23319eaef1bb97245bfb4fe1cedc8d0011525a6/output/AndroidManifest.xml:26:9-47

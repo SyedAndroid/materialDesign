@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout-v21/notification_action.xml"
+    }
+]

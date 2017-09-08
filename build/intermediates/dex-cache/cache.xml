@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/shoiab/Desktop/Design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e35cb0ffcdd876f1624814bbd71dc431d0929e9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shoiab/Desktop/Design/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/shoiab/Desktop/Design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_9d00249c8ff8c2633f501306ed4f1f9052fd931f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shoiab/Desktop/Design/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/shoiab/Desktop/Design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6806802e006d2ee7632f562e15cf23ceb112cb76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shoiab/Desktop/Design/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8be3de811276e5c0b0af31c01079bcc22b7f7557">
+        <dex dex="/home/shoiab/Desktop/Design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1183707f92d6e44d23ea147d23ef11bb6e22f56e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shoiab/.android/build-cache/e23319eaef1bb97245bfb4fe1cedc8d0011525a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/home/shoiab/Desktop/Design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_435db25a4b6f7545d8017014918a919e6f816df6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shoiab/.android/build-cache/c114cabd0faea24cf0f46a8f30d16304447a5d4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/shoiab/Desktop/Design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b17ead3a910846f93b33d59367c9d4a5f59b1f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shoiab/.android/build-cache/878f91e7b2c0d9903e4f4988a80dacd91662ec79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="/home/shoiab/Desktop/Design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb338179165542ae7cde67bc2e78bfb399911320/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shoiab/.android/build-cache/cec7d03e61ae1724258ac664eb736fc65e9c2777/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/shoiab/Desktop/Design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab21a1e725007392a67d51dd735b579a809be60e/classes.dex" />
+    </item>
+
+</items>
