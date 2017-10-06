@@ -1,4 +1,4 @@
-#Fri Sep 08 21:11:43 CEST 2017
+#Mon Oct 02 01:14:28 CEST 2017
 base.0=/home/shoiab/Desktop/Design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6806802e006d2ee7632f562e15cf23ceb112cb76
 renamed.1=classes.dex
 renamed.0=classes2.dex

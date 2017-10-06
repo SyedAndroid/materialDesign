@@ -16,20 +16,20 @@
         "source": "/home/shoiab/Desktop/Design/XYZReader/src/main/res/layout/list_item_article.xml"
     },
     {
-        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
-        "source": "/home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/res/layout/design_navigation_menu_item.xml"
-    },
-    {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
         "source": "/home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
-        "source": "/home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/res/layout/design_navigation_menu.xml"
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/res/layout/design_navigation_menu_item.xml"
     },
     {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/res/layout/design_navigation_menu.xml"
     },
     {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
@@ -56,12 +56,12 @@
         "source": "/home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/res/layout/design_layout_tab_text.xml"
     },
     {
-        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/abc_select_dialog_material.xml"
-    },
-    {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
@@ -96,12 +96,12 @@
         "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/abc_action_menu_layout.xml"
-    },
-    {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
@@ -124,12 +124,12 @@
         "source": "/home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/res/layout/design_text_input_password_icon.xml"
     },
     {
-        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
         "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
@@ -154,10 +154,6 @@
     {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
-        "source": "/home/shoiab/.android/build-cache/421ba097a5863a1496187621e6e21f84ef37b5a1/output/res/layout/abc_simple_dropdown_hint.xml"
     },
     {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
@@ -212,12 +208,12 @@
         "source": "/home/shoiab/Desktop/Design/XYZReader/src/main/res/layout/activity_article_list.xml"
     },
     {
-        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/abc_list_menu_item_layout.xml"
-    },
-    {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",

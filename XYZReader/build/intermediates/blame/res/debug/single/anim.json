@@ -12,12 +12,12 @@
         "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
         "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",

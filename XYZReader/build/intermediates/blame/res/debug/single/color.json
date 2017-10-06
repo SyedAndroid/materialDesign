@@ -8,32 +8,32 @@
         "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/res/color/design_error.xml"
-    },
-    {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/color/switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/color/abc_hint_foreground_material_light.xml"
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/shoiab/.android/build-cache/42d831efeddb89c957d5578c5033c255973ff1b1/output/res/color/design_error.xml"
     },
     {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
         "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/color/switch_thumb_material_dark.xml"
     },
     {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
         "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/shoiab/.android/build-cache/39c3c7faadac083bbfc326f56942ea67adc7dd79/output/res/color/abc_primary_text_material_light.xml"
     },
     {
         "merged": "/home/shoiab/Desktop/Design/XYZReader/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
