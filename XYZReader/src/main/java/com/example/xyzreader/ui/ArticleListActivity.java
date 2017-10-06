@@ -14,8 +14,10 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
+import android.support.v4.app.ActivityOptionsCompat;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.StaggeredGridLayoutManager;
@@ -30,6 +32,7 @@ import android.view.animation.Interpolator;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.bumptech.glide.Glide;
 import com.example.xyzreader.R;
 import com.example.xyzreader.data.ArticleLoader;
 import com.example.xyzreader.data.ItemsContract;
@@ -47,7 +50,7 @@ import butterknife.ButterKnife;
  * touched, lead to a {@link ArticleDetailActivity} representing item details. On tablets, the
  * activity presents a grid of items as cards.
  */
-public class ArticleListActivity extends ActionBarActivity implements
+public class ArticleListActivity extends AppCompatActivity implements
         LoaderManager.LoaderCallbacks<Cursor> {
 
     private Toolbar mToolbar;
@@ -149,12 +152,14 @@ public class ArticleListActivity extends ActionBarActivity implements
     public void onLoadFinished(Loader<Cursor> cursorLoader, Cursor cursor) {
         Adapter adapter = new Adapter(cursor,this);
         adapter.setHasStableIds(true);
+        LinearLayoutManager lm = new LinearLayoutManager(this);
+
+        mRecyclerView.setLayoutManager(lm);
+
         mRecyclerView.setAdapter(adapter);
         int columnCount = getResources().getInteger(R.integer.list_column_count);
-        LinearLayoutManager lm = new LinearLayoutManager(this);
         StaggeredGridLayoutManager sglm =
                 new StaggeredGridLayoutManager(columnCount, StaggeredGridLayoutManager.VERTICAL);
-        mRecyclerView.setLayoutManager(lm);
     }
 
     @Override
@@ -192,6 +197,7 @@ public class ArticleListActivity extends ActionBarActivity implements
 
             holder.titleView.setText(mCursor.getString(ArticleLoader.Query.TITLE));
             holder.titleView.setTypeface(Rosario);
+            holder.titleView.setTextSize(20);
             holder.subtitleView.setText(
                     DateUtils.getRelativeTimeSpanString(
                             mCursor.getLong(ArticleLoader.Query.PUBLISHED_DATE),
@@ -208,8 +214,12 @@ public class ArticleListActivity extends ActionBarActivity implements
             holder.thumbnailView.setAspectRatio(mCursor.getFloat(ArticleLoader.Query.ASPECT_RATIO));*/
             String url = mCursor.getString(ArticleLoader.Query.PHOTO_URL);
 
+            Glide.with(ArticleListActivity.this)
+                    .load(url)
+                    .override(500,250)
+                    .into(holder.thumbnailView);
 
-            Picasso.with(ArticleListActivity.this).load(url).fit().into(holder.thumbnailView);
+            //Picasso.with(ArticleListActivity.this).load(url).fit().into(holder.thumbnailView);
             animateViewsIn(holder.itemView);
             final ViewHolder vh = new ViewHolder(holder.itemView);
 
@@ -217,7 +227,8 @@ public class ArticleListActivity extends ActionBarActivity implements
                 @Override
                 public void onClick(View view) {
 
-                    Intent intent = new Intent(Intent.ACTION_VIEW,
+
+                  Intent intent = new Intent(Intent.ACTION_VIEW,
                             ItemsContract.Items.buildItemUri(getItemId(position)));
                             startActivity(intent);
                 }
